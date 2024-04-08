@@ -1,2 +1,5 @@
-title: "Darshan Kowlaser"
+title: [Darshan Kowlaser]
+description: [This is my portfolio]
 remote_theme: jekyll-theme-cayman
+plugins:
+- jekyll-remote-theme
