@@ -1,8 +1,8 @@
 ---
 ---
 
-Welcome To My Portfolio
-`sudo rm -rf /*`
+*Darshan Kowlaser*
 
-- Original date
-- With timeago filter
+- `routing`
+- `switching`
+- `architecture & design`
