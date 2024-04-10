@@ -2,6 +2,7 @@
 ---
 
 Welcome To My Portfolio
+`sudo rm -rf /*`
 
-- Original date - {{ date }}
-- With timeago filter - {{ date | timeago }}
+- Original date
+- With timeago filter
