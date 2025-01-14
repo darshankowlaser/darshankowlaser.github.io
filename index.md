@@ -7,3 +7,4 @@
 - `switching`
 - `architecture & design`
 - `security`
+- `radio frequency`
